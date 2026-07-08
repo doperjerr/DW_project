@@ -4,5 +4,5 @@ git add .
 git commit -m "Your commit message here"
 # push the changes to the remote repository
 git push origin <remote-branch-name>
-# switch to a different branch
+# switch to a different branchg
 git switch <branch-name>
